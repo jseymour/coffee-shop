@@ -1,7 +1,7 @@
 <template>
   <div class="app-shell">
     <header class="topbar">
-      <NuxtLink to="/" class="brand">Roast &amp; Queue Coffee</NuxtLink>
+      <NuxtLink to="/" class="brand">Roast me Coffee Company</NuxtLink>
     </header>
     <main class="container">
       <NuxtPage />
